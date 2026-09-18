@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tianhao Qi"
-description              : "Tianhao Qi is a Postdoctoral Scholar in Computer Science and Engineering at the University of California, Santa Cruz."
+title                    : "Lingyun Yu"
+description              : "Lingyun Yu is an Associate Research Professor at the School of Information Science and Technology, University of Science and Technology of China (USTC)."
 repository               : "xiaoyun4/yuly-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tianhao Qi"
+  name             : "Lingyun Yu"
   avatar           : "images/tianhao.jpg"
   bio              : "Postdoctoral Scholar at UC Santa Cruz"
   location         : "Santa Cruz, CA"
